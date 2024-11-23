@@ -1,6 +1,9 @@
 # WeatherCycler
 
-WeatherCycler is a QML-based weather widget designed to showcase smooth transitions between three weather states: Clear, Frosty, and Hot. This project implements the following features:
+WeatherCycler is a QML-based weather widget designed to showcase smooth transitions between three weather states: Clear, Frosty, and Hot.
+
+This project implements the following features:
+
 	•	Interactive Transitions: Clicking the sun or moon cycles through the weather states while animations ensure smooth transitions between positions.
 	•	Automatic Weather Cycling: Weather states rotate automatically, simulating a seamless experience.
 	•	Animated Hills: Gentle animations add subtle movement to the hills for a dynamic and engaging UI.
